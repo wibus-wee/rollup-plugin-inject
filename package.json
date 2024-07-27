@@ -1,5 +1,5 @@
 {
-  "name": "@wibus-wee/rollup-plugin-inject",
+  "name": "@wibus/rollup-plugin-inject",
   "version": "0.1.0",
   "description": "Injects the given props into code.(Before the code is transpiled)",
   "private": false,
